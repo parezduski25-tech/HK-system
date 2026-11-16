@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [Playing
+    activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "HK-E-SPORTS",     // this is what people actually see
